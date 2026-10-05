@@ -1,0 +1,2 @@
+# The sample project is standard-library only. pytest is optional (tests also run with unittest).
+pytest>=7.0
