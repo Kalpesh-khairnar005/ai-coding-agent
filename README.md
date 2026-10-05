@@ -186,4 +186,5 @@ The LLM never touches the disk. It only *chooses* tool calls and *proposes* edit
 
 ## Author
 
-Your Name — replace before submitting.
+Your Name — Kalpesh Khairnar [9699406262]
+mail - kalpeshkhairnar160205@gmail.com.
