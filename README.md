@@ -2,7 +2,7 @@
 
 **Understand • Plan • Modify • Test** — a small agentic coding assistant that takes a natural-language task, explores a codebase with tools, plans, patches the code, shows a diff, and runs the tests.
 
-**Deployed app:** `<paste your live URL here>`  |  **Repository:** `<paste your GitHub URL here>`
+**Deployed app:** https://ai-coding-agentt.streamlit.app  |  **Repository:** https://github.com/Kalpesh-khairnar005/ai-coding-agent
 
 ## Overview
 
